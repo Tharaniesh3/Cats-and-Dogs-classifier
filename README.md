@@ -7,7 +7,7 @@ Have a look on it.
  ![alt text](assets/splashscreen.jpg)
  ![alt text](assets/homescreen.jpg)
  ![alt text](assets/cam.jpg)
- ![alt text](assets/Gallery.jpg)
+ ![alt text](assets/gallery.jpg)
   
 ## <u>Social Profiles</u> :
 [Instagram](https://www.instagram.com/__thaxx__/)
