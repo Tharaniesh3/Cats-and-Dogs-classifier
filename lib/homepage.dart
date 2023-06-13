@@ -44,7 +44,6 @@ class _HomeState extends State<Home> {
 
   @override
   void dispose() {
-    // TODO: implement dispose
     super.dispose();
   }
 
@@ -166,7 +165,7 @@ class _HomeState extends State<Home> {
                           pickImage();
                         },
                         child: Container(
-                            width: MediaQuery.of(context).size.width - 250,
+                            width: MediaQuery.of(context).size.width / 3,
                             alignment: Alignment.center,
                             padding: EdgeInsets.symmetric(
                                 horizontal: 10, vertical: 18),
@@ -197,13 +196,13 @@ class _HomeState extends State<Home> {
                               ],
                             )),
                       ),
-                      SizedBox(height: 5),
+                      SizedBox(width: 5),
                       GestureDetector(
                         onTap: () {
                           pickGalleryImage();
                         },
                         child: Container(
-                            width: MediaQuery.of(context).size.width - 250,
+                            width: MediaQuery.of(context).size.width / 3,
                             alignment: Alignment.center,
                             padding: EdgeInsets.symmetric(
                                 horizontal: 10, vertical: 18),
