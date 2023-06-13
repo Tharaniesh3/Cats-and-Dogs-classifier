@@ -1,16 +1,26 @@
-# cat_vs_dog_identifier
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Cats and Dogs classifier
+### Heyyo Iam [Tharaniesh](https://www.instagram.com/imthaxx/). I have made a application which classifies whether the object in the image is a dog or a cat.I made this using flutter and tflite.
+Have a look on it.
+## THIS IS HOW IT LOOKS LIKE
+ ![alt text](assets/splashscreen.jpg)
+ ![alt text](assets/homescreen.jpg)
+ ![alt text](assets/cam.jpg)
+ ![alt text](assets/gallery.jpg)
+  
+## <u>Social Profiles</u> :
+[Instagram](https://www.instagram.com/imthaxx/)
+<br>
+<br>
+[Twitter](https://twitter.com/_Tharaniesh_)
+<br>
+<br>
+[Github](https://github.com/Tharaniesh3/)
+<br>
+<br>
+[Linked In](https://www.linkedin.com/in/tharaniesh-p-r-1429a3171/)
+<br>
+<br>
+[Email ID](mailto:www.tharanieshmarvel@gmail.com)
+<br> 
+<br>
+[Click Here To Know More👈](https://tharaniesh.netlify.app/)
