@@ -1,7 +1,5 @@
-# cat_vs_dog_identifier
-
-# GREENPLANET
-### Heyyo Iam [Tharaniesh](https://www.instagram.com/__thaxx__/). I have made a application which classifies whether the object in the image is a dog or a cat.I made this using flutter and tflite.
+# Cats and Dogs classifier
+### Heyyo Iam [Tharaniesh](https://www.instagram.com/imthaxx/). I have made a application which classifies whether the object in the image is a dog or a cat.I made this using flutter and tflite.
 Have a look on it.
 ## THIS IS HOW IT LOOKS LIKE
  ![alt text](assets/splashscreen.jpg)
@@ -10,7 +8,7 @@ Have a look on it.
  ![alt text](assets/gallery.jpg)
   
 ## <u>Social Profiles</u> :
-[Instagram](https://www.instagram.com/__thaxx__/)
+[Instagram](https://www.instagram.com/imthaxx/)
 <br>
 <br>
 [Twitter](https://twitter.com/_Tharaniesh_)
@@ -25,4 +23,4 @@ Have a look on it.
 [Email ID](mailto:www.tharanieshmarvel@gmail.com)
 <br> 
 <br>
-[Click Here To Know More👈](https://tharaniesh3.github.io/website/)
+[Click Here To Know More👈](https://tharaniesh.netlify.app/)
