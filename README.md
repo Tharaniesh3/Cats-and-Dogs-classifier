@@ -2,11 +2,9 @@
 ### Heyyo Iam [Tharaniesh](https://www.instagram.com/imthaxx/). I have made a application which classifies whether the object in the image is a dog or a cat.I made this using flutter and tflite.
 Have a look on it.
 ## THIS IS HOW IT LOOKS LIKE
- ![alt text](assets/splashscreen.jpg)
  ![alt text](assets/homescreen.jpg)
  ![alt text](assets/cam.jpg)
  ![alt text](assets/gallery.jpg)
-  
 ## <u>Social Profiles</u> :
 [Instagram](https://www.instagram.com/imthaxx/)
 <br>
